@@ -3,7 +3,7 @@ jobs:
   deploy:
     machine:
         enabled: true
-    working_directory: ~/XTStackOverflow  
+    working_directory: ~/roopali-file-reader  
     steps:
        - checkout
        - run: 
